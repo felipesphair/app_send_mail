@@ -20,4 +20,8 @@ GMAIL:
 
 ![image](https://github.com/felipesphair/app_send_mail/assets/107360437/d0b42135-1779-4f50-8b89-81d255bcbf01)
 
+BOAS PRÁTICAS DE SEGURANÇA:
 
+![image](https://github.com/felipesphair/app_send_mail/assets/107360437/7dc28a27-7636-4e94-8247-558ff40b15d3)
+
+disponibilizei os arquivos completos para que todos vejam a lógica, mas o correto seria dessa forma acima.
